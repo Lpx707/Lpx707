@@ -22,6 +22,4 @@
 
 ###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lpxalt&show_icons=true&theme=dark&title_color=e5a50a&locale=en" alt="lpxalt" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lpxalt&theme=dark" alt="lpxalt" /></p>
+![LpxAlt's Stats](https://github-readme-stats.vercel.app/api?username=LpxAlt&theme=dark&show_icons=true&hide_border=true&count_private=true)
