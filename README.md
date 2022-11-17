@@ -1,11 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Lpx;I'm+20yo;I'm+a+IT+Student)](https://git.io/typing-svg)
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Lpx;I'm+20yo;I'm+a+IT+Student)](https://git.io/typing-svg)</h1>
 
 ###
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=I%E2%80%99m+currently+learning+C+language;I%E2%80%99m+currently+learning+Python;I%E2%80%99m+currently+learning+IT+Security)](https://git.io/typing-svg)
 ###
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=My+Discord+%3A+Lpx%230022)](https://git.io/typing-svg)
 
 
 <div align="center">
