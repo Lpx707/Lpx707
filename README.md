@@ -2,6 +2,8 @@
 
 ###
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=I%E2%80%99m+currently+working+on+school+project)](https://git.io/typing-svg)
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&custom_title=Lpx GitHub Stats&username=LpxAlt " height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false&username=LpxAlt " height="150" alt="languages graph"  />
