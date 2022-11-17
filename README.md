@@ -1,4 +1,4 @@
-## About me
+## Me 👽
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=15&pause=1000&color=006AF7&width=435&lines=Hi%2C+I'm+Thomas;Hi%2C+I'm+Lpx)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=15&pause=1000&color=F7F7F7&width=435&lines=I'm+working+on+few+projects)](https://git.io/typing-svg)
