@@ -21,5 +21,5 @@
 
 ###
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=LpxAlt&show_icons=true&theme=dark)
- ![ Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=LpxAlt&amp;hide=javascript,css,scss,html&amp;theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LpxAlt&layout=dark)](https://github.com/anuraghazra/github-readme-stats)
 
