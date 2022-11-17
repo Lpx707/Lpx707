@@ -19,7 +19,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
 </div>
 
-###
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=LpxAlt&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LpxAlt&layout=dark)](https://github.com/anuraghazra/github-readme-stats)
 
