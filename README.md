@@ -2,7 +2,11 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=I%E2%80%99m+currently+working+on+few+project)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=I%E2%80%99m+currently+learning+C+language;I%E2%80%99m+currently+learning+Python;I%E2%80%99m+currently+learning+IT+Security)](https://git.io/typing-svg)
+###
+
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&custom_title=Lpx GitHub Stats&username=LpxAlt " height="150" alt="stats graph"  />
